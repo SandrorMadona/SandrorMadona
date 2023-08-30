@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandrorMadona
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me sandrormadona@gmail.com
 
 <!---
